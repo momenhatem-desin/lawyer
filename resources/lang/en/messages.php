@@ -1,0 +1,36 @@
+<?php
+
+return [
+
+    'Home' => 'home',
+    'About Us' => 'About Us',
+    'Log In' => 'Log In',
+    'Sections' => 'Sections',
+    'Categories' => 'Categories',
+    'lang' => 'lang',
+    'Social Media' => 'Social Media',
+    'subscribed' => 'subscribed',
+    'Posts' => 'Posts',
+    'Tags' => 'Tags',
+    'Contact Us' => 'Contact Us',
+    'Enter Your Email'=>'Enter Your Email',
+    'Subscribe' => 'Subscribe',
+    'subscribe_with_us_to_receive_all_new'=>'Subscribe With Us To Receive All New',
+    'Mail us'=>'Mail us',
+    'Submit'=>'Submit',
+    'Email'=>'Email',
+    'Subject' =>'Subject',
+    'Message' =>'Message',
+    'Post comment'=>'Post comment',
+    'Share' =>'Share',
+    'comment'=>'comment',
+    'View more'=>'View more',
+    'All Tags'=>'All Tags',
+    'No Comments'=>'No Comments',
+    'Name'=>' Name',
+    'your comment' =>'your comment',
+    'successful_subscription'=>'Successful Subscription',
+    'successful_send' =>'Success Send',
+    'Enter Your Search' =>'Enter Your Search',
+
+];
